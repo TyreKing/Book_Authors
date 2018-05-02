@@ -1,2 +1,2 @@
 # Book-_Authors
-Creates tables using Title, Edition, Publisher, and isbn.
+Creates tables using Title, Edition, Publisher, and isbn using SQL.
